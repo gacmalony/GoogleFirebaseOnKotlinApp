@@ -1,0 +1,27 @@
+BASIC FEATURES OF GOOGLE FIREBASE REALTIME DATABASE
+
+THIS APP PROVIDES TO, BE ABLE TO MANAGE ADD;REPLACE;REMOVE;READ;WRITE DATA WITH GOOGLE FIREBASE CONSOLE. ADMIN DOESNT NEED TO CHANGE THE LOCALE DATA.
+OF COURSE ADMIN COULD CHANGE THE REALTIME DATABASE FROM APP AS WELL. 
+
+
+
+
+
+![Screenshot 2024-01-31 073429](https://github.com/gacmalony/GoogleFirebaseOnKotlinApp/assets/154236584/abc680fa-7eda-48bb-9114-68d643a519d6)
+
+
+
+
+![Screenshot 2024-01-31 073444](https://github.com/gacmalony/GoogleFirebaseOnKotlinApp/assets/154236584/188ecbb6-a9d9-487f-85cc-239d082ac215)
+
+
+
+
+![Screenshot 2024-01-31 073505](https://github.com/gacmalony/GoogleFirebaseOnKotlinApp/assets/154236584/b41ab8ac-0143-402c-af78-22f36f69c0b5)
+
+CHANGING DATA THE IN THE CONSOLE, REFLECT TO TEXTVIEW IMMEDIATELY
+
+
+
+
+![Screenshot 2024-01-31 073513](https://github.com/gacmalony/GoogleFirebaseOnKotlinApp/assets/154236584/76ff78a6-f23f-4222-a93b-7fcabd143dac)
